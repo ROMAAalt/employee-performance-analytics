@@ -457,14 +457,6 @@ Potential next improvements:
 
 ---
 
-## Author
-
-**Amir Honardoust**
-
-GitHub: [@AmirhosseinHonardoust](https://github.com/AmirhosseinHonardoust)
-
----
-
 ## License
 
 Licensed under the **MIT License**, see [LICENSE](LICENSE) for the full text.
